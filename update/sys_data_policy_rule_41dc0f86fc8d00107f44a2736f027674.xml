@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>message</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-13 00:04:01</sys_created_on>
+        <sys_data_policy display_value="Sets the Message field to mandatory">cddc0f86fc8d00107f44a2736f027670</sys_data_policy>
+        <sys_id>41dc0f86fc8d00107f44a2736f027674</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>message</sys_name>
+        <sys_package display_value="CCW1547 Hello World" source="x_snc_ccw1547_hw">0dab0fc2fc8d00107f44a2736f02769c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCW1547 Hello World">0dab0fc2fc8d00107f44a2736f02769c</sys_scope>
+        <sys_update_name>sys_data_policy_rule_41dc0f86fc8d00107f44a2736f027674</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-13 00:04:01</sys_updated_on>
+        <table>x_snc_ccw1547_hw_message</table>
+    </sys_data_policy_rule>
+</record_update>
